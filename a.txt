@@ -1,0 +1,20 @@
+git init
+git add .
+git add *
+touch
+git status
+git commit -m "jasbdb"
+git push origin master
+git log
+git log -1
+git log --author <name>
+git log --committer <name>
+$ git log --author=Bob
+git log --before <date>
+git log --after <date>
+git log --after <date> --before <date>
+git log -p
+git log --stat
+git log --oneline
+git log --graph
+clear
