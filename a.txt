@@ -18,3 +18,4 @@ git log --stat
 git log --oneline
 git log --graph
 clear
+ls
