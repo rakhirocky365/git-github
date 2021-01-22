@@ -19,3 +19,4 @@ git log --oneline
 git log --graph
 clear
 ls
+git pull origin master
