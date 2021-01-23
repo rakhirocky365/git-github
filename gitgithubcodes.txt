@@ -21,3 +21,4 @@ git log --graph
 clear
 ls
 git rm filename
+git mv gitandgithubcodes.txt gitgithubcodes.txt
